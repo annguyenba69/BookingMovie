@@ -1,0 +1,13 @@
+
+.sub-menu li{
+    padding: 3px;
+    margin-left: 30px;
+}
+
+.sub-menu{
+    display: none;
+}
+
+.main-menu:hover .sub-menu{
+    display: block;
+}

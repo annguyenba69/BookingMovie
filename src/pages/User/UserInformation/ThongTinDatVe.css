@@ -1,0 +1,21 @@
+.ant-image-preview-img{
+    position: fixed;
+    top: 0;
+    left:0;
+    right:0;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.thong-tin-dat-ve-bg {
+    background-color: rgba(163, 132, 148, 0.2);
+    opacity: 0.8;
+    padding: 0px 40px;
+}
+
+.bg-item{
+    background-color: rgba(243,244,246,0.3);
+    padding: 5px;
+    border-radius: 10px;
+}

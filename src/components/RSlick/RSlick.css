@@ -1,0 +1,11 @@
+.slick-prev:before {
+    content: '←';
+    font-size: 30px!important;
+    color: black!important;
+}
+
+.slick-next:before {
+    content: '←';
+    font-size: 30px!important;
+    color: black!important;
+}

@@ -1,0 +1,16 @@
+.w-screen {
+    background-image: url("../../../assets/imgs/movie-details-bg.jpg");
+}
+
+.home-menu-bg {
+    background-color: rgba(163, 132, 148, 0.2);
+    opacity: 0.8;
+}
+
+.slick-prev:before {
+    color: antiquewhite !important;
+}
+
+.slick-next:before {
+    color: antiquewhite !important;
+}
